@@ -35,7 +35,7 @@ Thank you UCI Machine Learning repository for allowing us to use your dataset ht
 *  The "month", "cons.price.idx" and "duration" features have higher coefficient and they contribute higher towards predicting the target variable.
 *   Overall, the **Decision Tree** model is the best performing model among all four models followed by **Logistic Regression** model.
 
-## Next steps and Recommendations
+## Next Steps and Recommendations
 Evaluate and identify non-important categorical features in a group (with other feature variable) rather than single to determine whether there exist combination of categorical features which can be disgarded.
 *  Continue to add samples from new marketing campaign and evaluate the different classifier models.  
 *  Imbalanced dataset: Since the bank marketing dataset is imbalanced, consider using techniques such as resampling, SMOTE, or cost-sensitive learning to address the class imbalance and improve model performance.
