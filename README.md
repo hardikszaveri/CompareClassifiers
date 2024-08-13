@@ -42,4 +42,6 @@ Evaluate and identify non-important categorical features in a group (with other 
 * Training time and computational expense: Given that the SVM model (SVC classifier) has the highest training time and is computationally expensive, consider optimizing the model or exploring alternative models that can provide similar performance with lower training time.
 *  Performance metrics: While the Decision Tree model performs the best in terms of accuracy, recall, and F1-Score, and the Logistic Regression model has the best precision and ROC-AUC Curve metrics, it is important to consider the specific requirements of the problem at hand. Evaluate the trade-offs between different metrics and select the model that aligns best with the desired outcome.
 *  Correlation analysis: Take note of the highest positive correlation between "emp.var.rate" and "euribor3m" and the highest negative correlation between "pdays" and "previous". These insights can help in understanding the relationships between variables and potentially identifying multicollinearity issues.  
-* Overall, continue to refine and optimize the Decision Tree model and consider the recommendations mentioned above to further enhance model performance and interpretability.  
+* Overall, continue to refine and optimize the Decision Tree model and consider the recommendations mentioned above to further enhance model performance and interpretability.
+
+[Compare_Classifiers_Report.docx](https://github.com/hardikszaveri/CompareClassifiers/blob/main/Compare_Classifiers_Report.docx)
