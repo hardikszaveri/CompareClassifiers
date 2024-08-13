@@ -1,4 +1,4 @@
-## <h1><b>Comparing Classifiers</b></h1>
+## <h1><b>Compare Classifiers</b></h1>
 
 ## <h3>Overview:</h3>
 <p>
