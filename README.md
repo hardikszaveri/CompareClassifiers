@@ -8,6 +8,7 @@ In this practical application, our goal is to compare the performance of the cla
 ## <h3>Repo Structure</h3>
 * The compare_classifiers.ipynb file contains python code related to data analysis, visualization.
 * The data folder has bank-additional-full.csv file that contains sample data used in this application.
+* The compare_classifiers_eport.docx file contains brief report about this application.
 
 ## <h3>Business Objective</h3>
 <p>
