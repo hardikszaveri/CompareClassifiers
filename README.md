@@ -6,7 +6,7 @@ In this practical application, your goal is to compare the performance of the cl
 </p>
 
 ## <h3>Repo Structure</h3>
-* Thecompare_classifiers.ipynb file contains python code related to data analysis, visualization.
+* The compare_classifiers.ipynb file contains python code related to data analysis, visualization.
 * The data folder has bank-additional-full.csv file that contains sample data used in this application.
 
 ## <h3>Business Objective</h3>
